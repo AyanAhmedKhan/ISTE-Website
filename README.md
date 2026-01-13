@@ -1,16 +1,49 @@
-# React + Vite
+# ISTE-MITS Official Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive website for the **Indian Society for Technical Education (ISTE), MITS Chapter** — showcasing events, activities, gallery, team, mentors, and more.
 
-Currently, two official plugins are available:
+Built with performance-focused and aesthetic UI + GSAP animations + responsive design for all devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Frontend**
+- React.js (Vite)
+- React Router
+- GSAP (Animations)
+- Tailwind / Custom CSS (Hybrid Design)
+- SVG Assets & UI Components
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+✔ Hero with animated text + circular gallery background  
+✔ Event showcase + gallery + team section  
+✔ Mentors + contact information  
+✔ Smooth transitions & scroll effects  
+✔ Preloader splash animation (auto disabled on SPA nav)  
+✔ Fully responsive (Mobile / Tablet / Desktop)  
+✔ Modern UI Design — subtle gradients, parallax, vignette, fog effects  
+✔ Routing without refresh  
+
+---
+
+##  Pages Included
+
+| Page | Path | Description |
+|---|---|---|
+| Home | `/` | Landing hero + intro + CTA |
+| About | `/about` | About ISTE + Mission |
+| Events | `/events` | Past & Upcoming events |
+| Gallery | `/gallery` | Photos & memories |
+| Team | `/team` | ISTE core members |
+| Mentors | `/mentors` | Faculty & mentors |
+| Contact | `/contact` | Connect & socials |
+
+
+## Developer Information
+
+Developed & Designed by:
+Shivam Patidar CSD 2nd Year
