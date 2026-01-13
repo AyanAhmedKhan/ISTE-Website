@@ -9,7 +9,7 @@ import Xcalibre251 from "../../assets/gallery/X-calibre-2025-1.jpg"
 
 import TeamISTE from "../../assets/gallery/Team-ISTE.jpg";
 import SSCworkshop from "../../assets/gallery/SSC-workshop-Enigma.jpg";
-import SelfDefenceWorkshop from "../../assets/gallery/MPOWR-self-Defence-Workshop.jpg";
+import SelfDefenceWorkshop from "../../assets/gallery/MPOWR-Self-Defence-Workshop.jpg";
 import BoolCarnival from "../../assets/gallery/Book-Carnival-3.0.jpg";
 import JaskaranSingh from "../../assets/gallery/CP-Jaskaran-Singh.jpg";
 import BestSociety from "../../assets/gallery/Best-Society-Award.jpg";
@@ -17,7 +17,7 @@ import BestSociety from "../../assets/gallery/Best-Society-Award.jpg";
 import Esummit from "../../assets/gallery/E-Summit-2024.jpg";
 import EsummitGuest from "../../assets/gallery/E-Summit-Guest.jpg";
 import EsummitIdeafyWinner from "../../assets/gallery/E-summit-Ideafy-winner.jpg";
-import EsummitIcon from "../../assets/gallery/E-summit-Icon.jpg";
+import EsummitIcon from "../../assets/gallery/E-Summit-Icon.jpg";
 
 import BusinessDevelopmentExecutive from "../../assets/gallery/Business-Development-Executive.jpg"
 import ChimeraX2019 from "../../assets/gallery/CHIMERA-X-2019.jpg"
